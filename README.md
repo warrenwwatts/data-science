@@ -1,2 +1,2 @@
 # data-science
-Portfolio of Data Science related projects for Warren W Watts
+I've put the code and report for my first data science project in this repository under the files
